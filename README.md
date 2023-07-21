@@ -4,12 +4,12 @@ This project involves analyzing school district data using Python and the Pandas
 
 ## Getting Started
 
-To get started with the project, you'll need the following data files:
+Using the following data files:
 
 - `schools_complete.csv`: Contains information about the schools in the district.
 - `students_complete.csv`: Contains information about the students in the district.
 
-Make sure you have the necessary dependencies installed, including Pandas and pathlib.
+Necessary dependencies installed: Pandas and pathlib.
 
 ## Data Loading and Merging
 
