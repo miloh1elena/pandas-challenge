@@ -41,7 +41,7 @@ The analysis of district-wide standardized test results reveals significant vari
 
 #### Budget Allocation and Performance:
 
-Higher budget schools do not necessarily guarantee better academic performance. For instance, Bailey High School, with the highest budget of $3,124,928, has a relatively low overall passing rate of 54.6%. On the contrary, Cabrera High School, with a lower budget of $1,081,356, boasts a remarkable overall passing rate of 91.3%. This suggests that factors beyond financial resources contribute to academic success.
+Higher budget schools do not necessarily guarantee better academic performance. For instance, Bailey High School, with the highest budget of $3 124 928, has a relatively low overall passing rate of 54.6%. On the contrary, Cabrera High School, with a lower budget of $ 1 081 356, boasts a remarkable overall passing rate of 91.3%. This suggests that factors beyond financial resources contribute to academic success.
 
 #### Charter vs. District Schools:
 
